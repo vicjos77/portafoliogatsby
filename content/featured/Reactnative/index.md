@@ -1,9 +1,9 @@
 ---
 date: '3'
 title: 'Build Portafolio'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-ap'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cover: './porfolio.png'
+external: '[https://main--porfolio-vic.netlify.app]'
+cta: ''
 tech:
   - React
   - Express
