@@ -1,7 +1,7 @@
 ---
 date: '2015-12-21'
 title: 'System Analist'
-company: 'Laboratorio Jayor'
+company: 'Jayor'
 location: 'Pilar, Buenos Aires'
 range: 'January - December 2015'
 url: 'https://jayor.com.ar/'
