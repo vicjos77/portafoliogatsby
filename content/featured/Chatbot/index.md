@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Create aplication with Chat bot'
-cover: './demo.png'
+cover: './botmodif.png'
 github: 'https://github.com/vicjos77/bot'
 external: 'https://bot'
 tech:
