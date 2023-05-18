@@ -135,12 +135,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello my name is Victor Rodriguez, I love creating business solutions. My interest 
-              in computing dates back to the year 2000, building desktop applications, erp user
+              Hello, I'm Victor Rodriguez, I love creating business solutions. My interest 
+              in computing dates back for year 2000, building desktop applications, erp user
               support, implementing new solutions for administrative, accounting and human 
               resources systems. 
               
-              I have had the opportunity to work for all kinds of companies, including food, 
+              I have had the opportunity to work for all types of companies, including food, 
               logistics, clubs, clinics, wholesale distributors, internet sales, etc.
             </p>
 
