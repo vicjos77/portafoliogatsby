@@ -9,8 +9,8 @@ url: 'https://allcomputervrr'
 
 - Collaborated with the implement Erp System in multiple customer of the company   create a circuit administrative, accounting and human resource management. I migrate the current system to new in minutes, 
 
-i was develop aplication and parameterization of computer systems.
-Next I show you the list of some companies in which I work:
+i was developing aplication and parameterization of computer systems.
+Next I will show you the list of some companies  where i have worked:
 
     - Biglidue Peleterie (Shop market line)
     - Carenero yatch Club (System Pay of month)
